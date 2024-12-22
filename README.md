@@ -4,7 +4,7 @@
 
 **Домашние задания**
 
-**№ 9**(https://github.com/GaLanDec1/Java/tree/main/java/%D0%94%D0%97%209)
+[**№ 9**](https://github.com/GaLanDec1/Java/tree/main/java/%D0%94%D0%97%209)
 
 **Задание 1**
   ### 1. `ArrayUtils.java`
